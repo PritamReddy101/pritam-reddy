@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a786c94398b416641b819783c7febe9",
+    "revision": "3879187112b691d42cc6c0a71f8ee93a",
     "url": "/pritam-reddy/index.html"
   },
   {
-    "revision": "70bf09f97c95a729a61e",
+    "revision": "30eb7a87007076ece984",
     "url": "/pritam-reddy/static/css/2.242f24fe.chunk.css"
   },
   {
-    "revision": "da6f8c9222a79c526239",
+    "revision": "f22d4c61fab58e884844",
     "url": "/pritam-reddy/static/css/main.28892435.chunk.css"
   },
   {
-    "revision": "70bf09f97c95a729a61e",
-    "url": "/pritam-reddy/static/js/2.aa498b2b.chunk.js"
+    "revision": "30eb7a87007076ece984",
+    "url": "/pritam-reddy/static/js/2.d4730f54.chunk.js"
   },
   {
     "revision": "f2e097a5fa04a5d1b01656a6cd1a1a1a",
-    "url": "/pritam-reddy/static/js/2.aa498b2b.chunk.js.LICENSE"
+    "url": "/pritam-reddy/static/js/2.d4730f54.chunk.js.LICENSE"
   },
   {
-    "revision": "da6f8c9222a79c526239",
-    "url": "/pritam-reddy/static/js/main.8e8d599b.chunk.js"
+    "revision": "f22d4c61fab58e884844",
+    "url": "/pritam-reddy/static/js/main.e533d0c8.chunk.js"
   },
   {
     "revision": "f50d178af9714a1ed3c6",
