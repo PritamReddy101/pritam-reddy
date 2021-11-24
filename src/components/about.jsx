@@ -49,12 +49,12 @@ class About extends React.Component {
         {
           id: "second-p-about",
           content:
-            "I love building apps."
+            "I love building web apps and learning new technologies."
         },
         {
           id: "third-p-about",
           content:
-            "Hey para 3"
+            "🛑❗ This site is under construction! ❗🛑"
         }
       ]
     };

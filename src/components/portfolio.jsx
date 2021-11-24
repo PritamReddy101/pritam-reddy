@@ -18,8 +18,7 @@ class Portfolio extends React.Component {
               <div className="title-box text-center">
                 <h3 className="title-a">Portfolio</h3>
                 <p className="subtitle-a">
-                  Incididunt nostrud id aute culpa excepteur pariatur consequat
-                  elit culpa nulla enim anim incididunt.
+                  These are my few projects. I keep on updating/add new features.
                 </p>
                 <div className="line-mf"></div>
               </div>
@@ -210,7 +209,7 @@ class Portfolio extends React.Component {
                 </a>
               </div>
             </div>
-            <div className="col-md-4">
+            {/* <div className="col-md-4">
               <div className="work-box">
                 <a href={stock} data-lightbox="gallery-medlingos">
                   <div className="work-img">
@@ -389,8 +388,8 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-              </div>
-            </div>
+              </div> 
+            </div>*/}
           </div>
         </div>
       </section>
