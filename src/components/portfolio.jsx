@@ -160,7 +160,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Netflix Clone</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML CSS ReactJS
+                            HTML CSS ReactJSs
                           </span>
                           {/*} / <span className="w-date">18 Sep. 2018</span>*/}
                         </div>
