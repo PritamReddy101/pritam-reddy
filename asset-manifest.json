@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pritam-reddy/static/css/main.28892435.chunk.css",
-    "main.js": "/pritam-reddy/static/js/main.baadad09.chunk.js",
-    "main.js.map": "/pritam-reddy/static/js/main.baadad09.chunk.js.map",
+    "main.js": "/pritam-reddy/static/js/main.8e8d599b.chunk.js",
+    "main.js.map": "/pritam-reddy/static/js/main.8e8d599b.chunk.js.map",
     "runtime-main.js": "/pritam-reddy/static/js/runtime-main.d1b28d4b.js",
     "runtime-main.js.map": "/pritam-reddy/static/js/runtime-main.d1b28d4b.js.map",
     "static/css/2.242f24fe.chunk.css": "/pritam-reddy/static/css/2.242f24fe.chunk.css",
     "static/js/2.aa498b2b.chunk.js": "/pritam-reddy/static/js/2.aa498b2b.chunk.js",
     "static/js/2.aa498b2b.chunk.js.map": "/pritam-reddy/static/js/2.aa498b2b.chunk.js.map",
     "index.html": "/pritam-reddy/index.html",
-    "precache-manifest.d046905e9e91caa82d4d07b71a96eba8.js": "/pritam-reddy/precache-manifest.d046905e9e91caa82d4d07b71a96eba8.js",
+    "precache-manifest.ef039c5523bb1498c819922457913eff.js": "/pritam-reddy/precache-manifest.ef039c5523bb1498c819922457913eff.js",
     "service-worker.js": "/pritam-reddy/service-worker.js",
     "static/css/2.242f24fe.chunk.css.map": "/pritam-reddy/static/css/2.242f24fe.chunk.css.map",
     "static/css/main.28892435.chunk.css.map": "/pritam-reddy/static/css/main.28892435.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.242f24fe.chunk.css",
     "static/js/2.aa498b2b.chunk.js",
     "static/css/main.28892435.chunk.css",
-    "static/js/main.baadad09.chunk.js"
+    "static/js/main.8e8d599b.chunk.js"
   ]
 }

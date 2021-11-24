@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "278ff6de5044e6e019369509e031aecd",
+    "revision": "4a786c94398b416641b819783c7febe9",
     "url": "/pritam-reddy/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pritam-reddy/static/css/2.242f24fe.chunk.css"
   },
   {
-    "revision": "c85b1b95e555e90fa63b",
+    "revision": "da6f8c9222a79c526239",
     "url": "/pritam-reddy/static/css/main.28892435.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pritam-reddy/static/js/2.aa498b2b.chunk.js.LICENSE"
   },
   {
-    "revision": "c85b1b95e555e90fa63b",
-    "url": "/pritam-reddy/static/js/main.baadad09.chunk.js"
+    "revision": "da6f8c9222a79c526239",
+    "url": "/pritam-reddy/static/js/main.8e8d599b.chunk.js"
   },
   {
     "revision": "f50d178af9714a1ed3c6",
