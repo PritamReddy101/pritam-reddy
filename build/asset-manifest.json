@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/pritam-reddy/static/css/main.28892435.chunk.css",
+    "main.js": "/pritam-reddy/static/js/main.baadad09.chunk.js",
+    "main.js.map": "/pritam-reddy/static/js/main.baadad09.chunk.js.map",
+    "runtime-main.js": "/pritam-reddy/static/js/runtime-main.d1b28d4b.js",
+    "runtime-main.js.map": "/pritam-reddy/static/js/runtime-main.d1b28d4b.js.map",
+    "static/css/2.242f24fe.chunk.css": "/pritam-reddy/static/css/2.242f24fe.chunk.css",
+    "static/js/2.aa498b2b.chunk.js": "/pritam-reddy/static/js/2.aa498b2b.chunk.js",
+    "static/js/2.aa498b2b.chunk.js.map": "/pritam-reddy/static/js/2.aa498b2b.chunk.js.map",
+    "index.html": "/pritam-reddy/index.html",
+    "precache-manifest.d046905e9e91caa82d4d07b71a96eba8.js": "/pritam-reddy/precache-manifest.d046905e9e91caa82d4d07b71a96eba8.js",
+    "service-worker.js": "/pritam-reddy/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/pritam-reddy/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.28892435.chunk.css.map": "/pritam-reddy/static/css/main.28892435.chunk.css.map",
+    "static/js/2.aa498b2b.chunk.js.LICENSE": "/pritam-reddy/static/js/2.aa498b2b.chunk.js.LICENSE",
+    "static/media/earth.jpg": "/pritam-reddy/static/media/earth.67af05e1.jpg",
+    "static/media/font-awesome.css": "/pritam-reddy/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/image1.jpg": "/pritam-reddy/static/media/image1.768998c6.jpg",
+    "static/media/image2.jpg": "/pritam-reddy/static/media/image2.8de6195d.jpg",
+    "static/media/image3.jpg": "/pritam-reddy/static/media/image3.28470933.jpg",
+    "static/media/image4.jpg": "/pritam-reddy/static/media/image4.0b37f434.jpg",
+    "static/media/image5.jpg": "/pritam-reddy/static/media/image5.8d16c4af.jpg",
+    "static/media/image6.jpg": "/pritam-reddy/static/media/image6.62b7cc75.jpg",
+    "static/media/ionicons.css": "/pritam-reddy/static/media/ionicons.621bd386.svg",
+    "static/media/male.png": "/pritam-reddy/static/media/male.a82ab1cd.png",
+    "static/media/male1.png": "/pritam-reddy/static/media/male1.3ec3891b.png",
+    "static/media/myImage.png": "/pritam-reddy/static/media/myImage.bd80794f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1b28d4b.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.aa498b2b.chunk.js",
+    "static/css/main.28892435.chunk.css",
+    "static/js/main.baadad09.chunk.js"
+  ]
+}

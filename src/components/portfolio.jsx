@@ -28,17 +28,17 @@ class Portfolio extends React.Component {
           <div className="row">
             <div className="col-md-4">
               <div className="work-box">
-                <a href={stock} data-lightbox="gallery-vmarine">
+                <a href={'https://twitter-clone-8c267.web.app/'} target="_blank" /*data-lightbox="gallery-vmarine"*/>
                   <div className="work-img">
                     <img src={stock} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Twitter Clone</h2>
                         <div className="w-more">
-                          <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap ReactJS
+                          <span className="w-ctegory" >
+                            HTML CSS ReactJS
                           </span>
                         </div>
                       </div>
@@ -89,18 +89,17 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={stock} data-lightbox="gallery-aguadeluz">
+                <a href={'https://clone-e9264.web.app/'} target="_blank" /*data-lightbox="gallery-aguadeluz"*/>
                   <div className="work-img">
                     <img src={stock} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Youtube Clone</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap Webpack SmoothScrolling
-                            VanillaJS
+                            HTML5 CSS3 MaterialUI ReactJS
                           </span>{" "}
                         </div>
                       </div>
@@ -151,17 +150,17 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={stock} data-lightbox="gallery-todo">
+                <a href={'https://netflix-clone-d2060.web.app/'} target="_blank" /*data-lightbox="gallery-todo"*/>
                   <div className="work-img">
                     <img src={stock} alt="" className="img-fluid" />
                   </div>
                   <div className="work-content">
                     <div className="row">
                       <div className="col-sm-8">
-                        <h2 className="w-title">Lorem Ipsum</h2>
+                        <h2 className="w-title">Netflix Clone</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            HTML5 CSS3 Bootstrap Webpack ReactJS
+                            HTML CSS ReactJS
                           </span>
                           {/*} / <span className="w-date">18 Sep. 2018</span>*/}
                         </div>
